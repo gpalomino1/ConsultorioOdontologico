@@ -1,0 +1,24 @@
+# Archivos de NetBeans
+nb-configuration.xml
+
+# Archivos de Eclipse
+.classpath
+.project
+.settings/
+
+# Salida de compilación
+target/
+build/
+
+# Archivos temporales y del sistema
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos binarios
+*.class
+*.war
+*.jar
